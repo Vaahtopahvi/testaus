@@ -8,4 +8,4 @@
 
 ## alaotsikko
 
-**Bold** TÄN RIVIN PITÄS OLLA BOLDED
+**TÄN RIVIN PITÄS OLLA BOLDED**
