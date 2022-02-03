@@ -1,0 +1,53 @@
+Läijä
+Beigehousu
+Lippalakki
+Chinkki
+Trippi
+Ähkijä blondi `ähkijä ämmä`
+Ylämäki
+Extrovertti `hohhoh`
+Rumilukset `se rumempi pari`
+Lepakot
+Rööki
+Mursu
+Papparaine `vanha pt`
+PellePT `huutonauru pelle pt`
+Pälättäjä blondi
+BB
+Tennari kissa `tennissukat`
+Juustonaksu
+Noita
+Trikoo
+Neekeriryssä
+Emil `näyttää enemmä emililt ku emil`
+Tumbe `näyttää tumbelt`
+Blondi `HEIPPADIDEI`
+Jone `kävelee ku jone?`
+Afro `luikku jäbä afro`
+Juppi `valkohiuksine jäbä/akseli`
+Crocs `helvetin enkeli`
+Polvituki `kissa, sinine polvituki`
+Poika&Isä `poika reenas päi mehää`
+Vakkarit `punahiuksine kissa`
+Jenkki `tanktop puhuu enkkuu`
+Terroristi `läski mamu`
+Tero2 `tanktopmamu`
+Nelikymppine `tatuoitu blondi kissa`
+Nöröt `rillit, meidän ikäset`
+runkkari `jos se yks nörö käy yksin`
+Tatska `kävelevä tatuointi`
+Penkki&Tuulihousu
+Kauluspaita/ Punanetanktoppelle `duunijäbän kaveri`
+Juntit `oranssipaita pellet`
+Testoakka
+Mark Wahlberg `tyyppi näyttää iha siltä`
+Kuuloke `sininen paita, aina kuulokkeet päässä`
+Kampelat `kaljamaha=kampela`
+Keskari `vinosilmä keskijakaus`
+Hajukissa `pirusti hajuvettä`
+Mustapaita `saman ikäne, aina musta t-paita, riku ei ikin muista`
+00na `tiiät kyllä kuka kissa`
+coc `mamu joka pelaa clash of clans`
+dyson `kissa jolla on isot dysonit`
+joku `joonaksen kaveri`
+kloonit `pellet jotka näyttää iha samalt`
