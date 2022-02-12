@@ -51,4 +51,9 @@
 -dyson `kissa jolla on isot dysonit`
 -joku `joonaksen kaveri`
 -kloonit `ruotsalaiset pellet jotka näyttää iha samalt`
-
+-fäijä 'feikki läijä'
+-rillipää 'piti keksii parempi nimi'
+-roskaaja 'homo heitti kolmioleivän laatikon'
+-nyrkkeilijä-jäbä 'roskaajan kaveri'
+-ranskis 'brune ranskaisletti kissa'
+-Ankerias 'wattbike jäbä'
