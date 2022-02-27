@@ -57,3 +57,4 @@
 -nyrkkeilijä-jäbä 'roskaajan kaveri'
 -ranskis 'brune ranskaisletti kissa'
 -Ankerias 'wattbike jäbä'
+-mcgyver 'pitkä letti'
