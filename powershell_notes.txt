@@ -1,0 +1,6 @@
+<tasklist> listaa taskit sekä niiden PID numeron jolla se voidaan tappaa
+
+<taskkill /pid <PIDnro>  taskkill /pid 11008 esim.
+
+Sovellus käynnistetään esim: <Start-Process 'C:\Program Files (x86)\Steam\steam.exe'>
+Stop-Process lopettaa
